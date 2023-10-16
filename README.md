@@ -1,2 +1,3 @@
 # openvdb_examples
-My studies about openvdb
+
+In this repository, I will share my studies on OpenVDB in C++
